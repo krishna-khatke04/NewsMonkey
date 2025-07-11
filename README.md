@@ -24,6 +24,6 @@ NewsMonkey is a React.js-based web application that provides users with the late
 ---
 
 ## 📸 Screenshots
-
+![Image](https://github.com/user-attachments/assets/3760a8df-2037-4994-9147-9262b65a4579)
 
 
